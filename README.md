@@ -1,4 +1,4 @@
-# constrained-routing-in-physical-design
+# Constrained-Routing-in-physical-design
 
 This is algorithmic challenging problem in which we have a find a routes between pin groups of a single bus.
 
