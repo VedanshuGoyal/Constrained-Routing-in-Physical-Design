@@ -1,6 +1,6 @@
 # Constrained-Routing-in-physical-design
 
-This is algorithmic challenging problem in which we have a find a routes between pin groups of a single bus.
+This is algorithmic challenging problem occuring in ICCAD contest 2018, in which we have a find a routes between pin groups of a single bus.
 
 We have implemented an effective and efficient topology matching bus routing algorithm considering obstacles and non-uniform track configurations.
 
